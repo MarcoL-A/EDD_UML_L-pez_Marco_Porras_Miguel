@@ -14,6 +14,9 @@ Rombo: (Activa la que cumpla con la condición).
 
 ### Bibliografía:
 https://www.omg.org/spec/UML/
+
 https://www.visual-paradigm.com/
+
 https://javiergarzas.com/2013/11/uml-2-5.html
+
 https://www.preparatic.org/material/20141011/Presentacion_UML.pdf
