@@ -11,3 +11,4 @@ Rombo: (Activa la que cumpla con la condición).
 
 Barra de fork: (Activa las dos de manera simultánea).
 <img width="301" height="103" alt="Captura de pantalla 2026-05-11 131827" src="https://github.com/user-attachments/assets/1110e2c9-b16d-4b1d-818e-f82187de3d54" />
+<img width="982" height="993" alt="Fase2 drawio" src="https://github.com/user-attachments/assets/8f3dce33-89d7-4c51-b4a0-90ae20ba3ae7" />
